@@ -19,7 +19,7 @@
     "npm": ">=5.6.0"
   },
   "dependencies": {
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "zapier-platform-core": "7.6.0"
   },
   "devDependencies": {
